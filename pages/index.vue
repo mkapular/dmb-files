@@ -16,6 +16,10 @@ definePageMeta({
 
 <template>
   <Container>
+    {{page.videos}}
+    <video autoplay muted loop :src="page.videos.video1" type="video/mp4"></video>
+    <video autoplay muted loop :src="page.videos.video2" type="video/mp4"></video>
+    <video autoplay muted loop :src="page.videos.video3" type="video/mp4"></video>
     <Hero
       :title="page.hero.title"
       :description="page.hero.description"

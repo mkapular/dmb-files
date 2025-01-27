@@ -30,6 +30,11 @@ features:
       description: It supports lazy loading of components with dynamic imports to improve performance by splitting the code into smaller chunks.
     - title: SEO Friendly
       description: With SSR, SSG, and automatic meta tag handling, Nuxt.js ensures your application is SEO-friendly.
+videos:
+  video1: become_hero.mp4
+  video2: platform_hero.mp4
+  video3: landing_hero.mp4
+
 testimonials:
   title: What Our Users Are Saying
   description: Hear from our clients about their experiences working with Nuxt and Netlify.
