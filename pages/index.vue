@@ -23,6 +23,7 @@ definePageMeta({
     <video  muted loop :src="page.videos.video4" type="video/mp4"></video>
     <video  muted loop :src="page.videos.video5" type="video/mp4"></video>
     <video  muted loop :src="page.videos.video6" type="video/mp4"></video>
+
     <Hero
       :title="page.hero.title"
       :description="page.hero.description"
@@ -30,6 +31,7 @@ definePageMeta({
       :imageAlt="page.hero.imageAlt"
       :buttons="page.hero.buttons"
     ></Hero>
+
     <Logos :title="page.logos.title" :icons="page.logos.icons"></Logos>
     <Features
       :title="page.features.title"
