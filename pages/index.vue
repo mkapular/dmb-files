@@ -24,6 +24,7 @@ definePageMeta({
     <video  muted loop :src="page.videos.video5" type="video/mp4"></video>
     <video  muted loop :src="page.videos.video6" type="video/mp4"></video>
     <video  muted loop :src="page.videos.video7" type="video/mp4"></video>
+    <video  muted loop :src="page.videos.video8" type="video/mp4"></video>
 
     <Hero
       :title="page.hero.title"

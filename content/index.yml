@@ -35,9 +35,10 @@ videos:
   video2: platform_hero.mp4
   video3: landing_hero.mp4
   video4: dmb_short.mp4
-  video5: omb_hero.mp4
+  video5: operateMybox - Home.mp4
   video6: omb_process.mp4
-  video7: depot.mp4
+  video7: operateMybox - Depot.mp4
+  video8: operateMybox - CFS & Packing.mp4
 
 testimonials:
   title: What Our Users Are Saying
